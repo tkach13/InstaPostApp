@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_heart_red.xml" value="0.161" />
+        <entry key="app/src/main/res/drawable/ic_like_unselected.xml" value="0.161" />
+        <entry key="app/src/main/res/drawable/selector_like.xml" value="0.161" />
         <entry key="app/src/main/res/drawable/shape_avatar_backroud.xml" value="0.161" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="1.3435760498046876" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/second_activity.xml" value="0.1" />
       </map>
     </option>
   </component>
